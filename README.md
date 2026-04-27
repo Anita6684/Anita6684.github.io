@@ -16,6 +16,7 @@ Puedes revisar algunos de los commits que he realizado aquí:
 <img width="1551" height="875" alt="2 commit" src="https://github.com/user-attachments/assets/8dd7877c-1f76-4a1c-8ffa-0b3129f7b02b" />
 <img width="1405" height="791" alt="1 commit" src="https://github.com/user-attachments/assets/59e68da5-7af9-437b-bb19-98bb3e5a7c63" />
 
+<img width="1846" height="682" alt="image" src="https://github.com/user-attachments/assets/32d3ec5d-cfcc-429f-859e-b3ea7d9697e6" />
 
 
 
