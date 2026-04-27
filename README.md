@@ -13,3 +13,6 @@ Puedes revisar algunos de los commits que he realizado aquí:
 👉 https://github.com/Anita6684/Camilo-Bastian-Sanchez.github.io.git
 👉 https://github.com/Anita6684/kisarubilar.github.io.git
 
+<img width="1551" height="875" alt="2 commit" src="https://github.com/user-attachments/assets/41e71ead-674c-4e85-b2ab-f2c413e8a98e" />
+<img width="1405" height="791" alt="1 commit" src="https://github.com/user-attachments/assets/3e782895-bda5-40f7-9fbb-6dd1ddac1b37" />
+
