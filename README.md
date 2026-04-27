@@ -8,7 +8,8 @@ Aquí podrás encontrar trabajos realizados durante mi formación, enfocados en 
 
 Como parte de mi aprendizaje, he trabajado de forma colaborativa utilizando GitHub, realizando forks de repositorios para analizar, mejorar y aportar a proyectos de otros desarrolladores.
 
-Puedes revisar algunos de los forks que he realizado aquí:
+Puedes revisar algunos de los commits que he realizado aquí:
 
 👉 https://github.com/Anita6684/Camilo-Bastian-Sanchez.github.io.git
 👉 https://github.com/Anita6684/kisarubilar.github.io.git
+
